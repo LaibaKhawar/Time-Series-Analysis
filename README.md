@@ -2,7 +2,7 @@
 
 Exploratory analysis of daily BTC/USD closing prices with linear and polynomial regression on time, Augmented Dickey-Fuller stationarity tests, ACF/PACF plots and an attempted rolling ARIMA evaluation.
 
-**Interactive demo:** [Run it in your browser](https://laiba-khawar-portfolio.vercel.app/work/btc-forecasting#demo)
+**Interactive demo:** [Run it in your browser](https://www.laibakhawar.com/work/btc-forecasting#demo)
 
 The demo re-runs the forecasts with a chronological train/test split instead of the random split used in the notebook.
 
@@ -65,4 +65,4 @@ The notebook reads `BTC-Daily.csv` from the working directory, so start Jupyter 
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
